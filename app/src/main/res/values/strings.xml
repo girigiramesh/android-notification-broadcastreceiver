@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Broadcast_notifications</string>
+    <string name="wifioff">WIFI OFF</string>
+    <string name="wifion">WIFI ON</string>
+    <string name="BroadcastReceiver">Broadcast Receiver</string>
+    <string name="notificationtitle">Broadcast Tutorial</string>
+    <string name="lbltitle">Title</string>
+    <string name="lbltext">Text</string>
+</resources>
